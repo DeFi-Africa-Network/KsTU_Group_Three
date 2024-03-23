@@ -1,1 +1,5 @@
 # KsTU_Group_Three
+
+Transaction hash: 0x00127254b964764fc877043e668b373cee22d8c93f89b47f57de72ab593c148d
+
+Contract Address: 0xd7e075a15230bf3cf9b526db7b8f2b30ee1c7335
