@@ -1,0 +1,62 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid rgb(6, 14, 6);
+    margin: 50px 200px;
+    background-color: gray;
+    border-radius: 55px;
+  }
+  
+  .btn1 {
+    padding: 10px 40px;
+    background: rgb(68, 110, 248);
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  form {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    background: rgb(61, 61, 60);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .btn2 {
+    padding: 5px 20px;
+    border-radius: 10px;
+    background: rgb(255, 114, 86);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .btn3 {
+    padding: 10px 40px;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 67px;
+  }
+  
+  .display {
+    padding: 20px 100px;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
