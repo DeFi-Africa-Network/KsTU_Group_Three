@@ -32,13 +32,13 @@ To clone the repository and set up the project locally, follow these steps:
 1. Clone the repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/your-username/decentralized-storage.git
+    git clone https://github.com/DeFi-Africa-Network/KSTu_group_three.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd decentralized-storage
+    cd KsTU_Group_Three
     ```
 
 3. Install dependencies for the frontend:
